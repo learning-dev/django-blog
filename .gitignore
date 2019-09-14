@@ -53,7 +53,7 @@ coverage.xml
 # Translations
 *.mo
 *.pot
-
+ __pycache__/
 # Django stuff:
 *.log
 local_settings.py
